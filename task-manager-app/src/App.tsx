@@ -1,5 +1,11 @@
+import "../src/styles/main.scss";
+
 function App() {
-  return <>Hello</>;
+  return (
+    <>
+      <p>Hello</p>
+    </>
+  );
 }
 
 export default App;
