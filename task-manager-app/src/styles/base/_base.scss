@@ -1,7 +1,10 @@
+@use "../variables/index" as *;
+
 html {
   font-size: 62.5%; // This makes 1rem = 10px
 }
 
 body {
   margin: 0;
+  font-family: $font-family-roboto-mono;
 }
